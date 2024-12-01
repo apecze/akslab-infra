@@ -1,0 +1,5 @@
+[control]
+ansible
+
+[nodes]
+k8s-node-1
